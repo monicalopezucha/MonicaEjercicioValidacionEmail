@@ -1,0 +1,6 @@
+2024-11-17 00:28:48,088 - INFO - Validación exitosa: test@example.com es válido.
+2024-11-17 00:28:48,088 - INFO - Validación exitosa: nombre.apellido@dominio.co es válido.
+2024-11-17 00:28:48,088 - WARNING - Validación fallida: test@.com no es válido.
+2024-11-17 00:28:48,088 - WARNING - Validación fallida: usuario@dominio no es válido.
+2024-11-17 00:28:48,088 - WARNING - Validación fallida: usuario@dominio.123 no es válido.
+2024-11-17 00:28:48,090 - WARNING - Validación fallida: usuario@dominio..com no es válido.
